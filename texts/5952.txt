@@ -1,0 +1,3 @@
+Different items and amounts require different patterns to arrange them!
+--- RECORDSEPARATOR ---
+Browse some example patterns below.

@@ -1,0 +1,5 @@
+This is the 
+--- RECORDSEPARATOR ---
+Order Station.
+--- RECORDSEPARATOR ---
+Take customers' orders here.

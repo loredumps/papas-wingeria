@@ -1,0 +1,11 @@
+The 
+--- RECORDSEPARATOR ---
+Timer Bar
+--- RECORDSEPARATOR ---
+ on each basket shows 
+--- RECORDSEPARATOR ---
+how long the wings have cooked.
+--- RECORDSEPARATOR ---
+Cook until the meter reaches 
+--- RECORDSEPARATOR ---
+the White Line.

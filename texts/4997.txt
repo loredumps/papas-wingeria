@@ -1,0 +1,7 @@
+After you drag a bin to a fryer,
+--- RECORDSEPARATOR ---
+you 
+--- RECORDSEPARATOR ---
+choose how many to cook
+--- RECORDSEPARATOR ---
+.

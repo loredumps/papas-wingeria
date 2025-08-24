@@ -1,0 +1,13 @@
+abcdefghijklmn
+--- RECORDSEPARATOR ---
+opqrstuvwxyz
+--- RECORDSEPARATOR ---
+ABCDEFGHIJKLMN
+--- RECORDSEPARATOR ---
+OPQRSTUVWXYZ1
+--- RECORDSEPARATOR ---
+2345  67890-
+--- RECORDSEPARATOR ---
+=!@#$%^&*()_+[]{}
+--- RECORDSEPARATOR ---
+\|;:'",<.>/?`~

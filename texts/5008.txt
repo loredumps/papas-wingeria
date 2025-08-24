@@ -1,0 +1,5 @@
+Release the sauce bottle when the number
+--- RECORDSEPARATOR ---
+on the bowl meter matches the number 
+--- RECORDSEPARATOR ---
+on the ticket.

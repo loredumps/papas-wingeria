@@ -1,0 +1,1 @@
+This symbol means the item should be on the RIGHT HALF of the plate.

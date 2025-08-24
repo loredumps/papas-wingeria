@@ -1,0 +1,3 @@
+Three all-arounds
+--- RECORDSEPARATOR ---
+(make a pattern in a circle)

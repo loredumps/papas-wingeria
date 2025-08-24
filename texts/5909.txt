@@ -1,0 +1,3 @@
+Drag tickets to the "ticket line" hanging across 
+--- RECORDSEPARATOR ---
+the top of the screen for storage.

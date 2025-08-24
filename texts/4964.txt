@@ -1,0 +1,5 @@
+If you move your mouse over a fryer,
+--- RECORDSEPARATOR ---
+you can see the meat inside the basket
+--- RECORDSEPARATOR ---
+(- (but it stops cooking while you look).

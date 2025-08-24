@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:ffdec="https://www.free-decompiler.com/flash" xmlns:xlink="http://www.w3.org/1999/xlink" ffdec:objectType="shape" height="46.0px" width="289.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <pattern ffdec:smoothed="false" height="46" id="PatternID_2162_1" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" patternUnits="userSpaceOnUse" viewBox="0 0 289 46" width="289">
+      <image height="46" width="289" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAASEAAAAuCAYAAABnPK96AAAA1UlEQVR4Xu3UuwnDQABEQRXolt2Gi3AP/nACCYHiu5fMwkSbv2277P18/ABmu3bn3Di+nxfAdLcQCRCw2hkiAQIqe4hECKiIEJASISAlQkBKhICUCAEpEQJSIgSkRAhIiRCQEiEgJUJASoSAlAgBKRECUiIEpEQISIkQkBIhICVCQEqEgJQIASkRAlIiBKRECEiJEJASISAlQkBKhICUCAEpEQJSIgSkRAhIiRCQEiEgJUJASoSAlAgBKRECUnuExoQIWO0M0DEhAla5BejYOABmu3bnDwytdCo8HLFyAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M289.0 46.0 L0.0 46.0 0.0 0.0 289.0 0.0 289.0 46.0" ffdec:fill-bitmapId="2161" style="fill:url(#PatternID_2162_1)"/>
+    <pattern ffdec:smoothed="false" height="42" id="PatternID_2162_2" overflow="visible" patternTransform="matrix(1.0, 0.0, 0.0, 1.0, 2.0, 2.0)" patternUnits="userSpaceOnUse" viewBox="0 0 42 42" width="42">
+      <image height="42" width="42" xlink:href="data:image/PNG;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAABrUlEQVR4Xu2Zv0oDQRCH70msLH0CO7EI2KW1trQSX8MuPohoYWPpA9goSAobSaWFhYUgK9/eju5kciqekN/BHfxIZv/cfdmbnd3NNM3XlUTlrvQ0P3B6fT5J728XWS+Px6GesrrNKlFf96378Lm42U8P19Os+dVe1v3lJN2d72bdnu042HyT08PNNN1oso62mjTbbsV3K7e6ur5L1u439+wSTPwIg82gVJQCGcHEWyi2Ligjj4sUu6XmlSw3XLdgwo+L3VIrgjKiTLBiN3kWUrjccN3CHYkCxW5HVNFHYXIjqjqZYBpMeAqgqj7qZj3haRCgquEpgBKeVEFxy2KPoL01gv63wu5JFRQmB4qhGEfDNo+Ar7qEut2T8lrPIa/Y2ktofRKVXkIdqPIOP4yoqo86UOXJ5ECJVSNoDwVQziUjaA+FgM/ZWRXUnUJVQYnt7t88Fn5FUFZLB4ofKIIyou7VM7MUQcNkUgZ14WlQoJZssKTATwmBvyQPutT1TJhCZoQQxeaEnRSfllZBLLEma2MpGkvPWD3tiSI84Dvhe7SlP6Lvqn415CesqPL1AcI2aKxYgdchAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <path d="M44.0 44.0 L2.0 44.0 2.0 2.0 44.0 2.0 44.0 44.0" ffdec:fill-bitmapId="2160" style="fill:url(#PatternID_2162_2)"/>
+  </g>
+</svg>

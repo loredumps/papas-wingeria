@@ -1,0 +1,3 @@
+When you finish an order, the customer will taste their meal
+--- RECORDSEPARATOR ---
+and decide if you did a good job.

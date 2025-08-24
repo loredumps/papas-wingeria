@@ -1,0 +1,3 @@
+Drag tickets to the side hook
+--- RECORDSEPARATOR ---
+to read them easier.

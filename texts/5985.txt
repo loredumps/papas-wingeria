@@ -1,0 +1,3 @@
+Fill a customer's Star Meter to earn a "Star Customer" award and a bonus tip!
+--- RECORDSEPARATOR ---
+When a customer has earned awards, they'll also tip more from now on, and order faster!

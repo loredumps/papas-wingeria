@@ -1,0 +1,5 @@
+You can drag tickets onto the
+--- RECORDSEPARATOR ---
+ticket line to store and
+--- RECORDSEPARATOR ---
+organize them as you like.

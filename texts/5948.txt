@@ -1,0 +1,3 @@
+Sometimes customers will mix some ALL AROUND items and some 
+--- RECORDSEPARATOR ---
+HALF-and-HALF items in the same order.  Pay attention to the tickets!

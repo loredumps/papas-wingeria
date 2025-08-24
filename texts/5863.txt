@@ -1,0 +1,3 @@
+All-around, multiple Left Half, one Right Half
+--- RECORDSEPARATOR ---
+(different pattern, but pattern stays on its own side)

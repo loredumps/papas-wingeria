@@ -1,0 +1,3 @@
+Click the "FINISH" button to get ready to serve the order.
+--- RECORDSEPARATOR ---
+Drag the customer's ticket onto the ticket stand to finish the order!

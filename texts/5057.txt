@@ -1,0 +1,11 @@
+The strips are on the whole plate,
+--- RECORDSEPARATOR ---
+so 
+--- RECORDSEPARATOR ---
+place these first
+--- RECORDSEPARATOR ---
+!
+--- RECORDSEPARATOR ---
+Add the green peppers on the left,
+--- RECORDSEPARATOR ---
+red peppers on the right.

@@ -1,0 +1,3 @@
+Drag a sauce bottle above the bowl, which will start the Sauce Meter.
+--- RECORDSEPARATOR ---
+Release the bottle when the number on the Meter matches the number of wings!

@@ -1,0 +1,11 @@
+This customer wants 
+--- RECORDSEPARATOR ---
+4 Wings.
+--- RECORDSEPARATOR ---
+Drag the 
+--- RECORDSEPARATOR ---
+Wing Bin
+--- RECORDSEPARATOR ---
+ onto an 
+--- RECORDSEPARATOR ---
+empty fryer.

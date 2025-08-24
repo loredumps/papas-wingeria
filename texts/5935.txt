@@ -1,0 +1,3 @@
+Check the card next to a waiting bowl to see what kind of meat it contains,
+--- RECORDSEPARATOR ---
+and how many are in that bowl.

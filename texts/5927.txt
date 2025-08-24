@@ -1,0 +1,3 @@
+Drag a Meat Bin onto an empty fryer, and then drag the slider
+--- RECORDSEPARATOR ---
+on the lid to the amount you want to cook.
